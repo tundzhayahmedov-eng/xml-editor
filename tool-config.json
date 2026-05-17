@@ -1,6 +1,6 @@
 {
-  "paid": false,
-  "license": "Free",
+  "paid": true,
+  "license": "Paid",
   "discordUrl": "https://discord.com/users/tunitoo0",
   "message": ""
 }

@@ -3,10 +3,11 @@
   "license": "Free",
   "discordUrl": "http://discord.gg/yGVg3X7PYJ",
   "message": "Game UI XML Editor is currently free to use.",
-  "latestVersion": "1.0.0",
+  "latestVersion": "1.0.1",
   "forceUpdate": true,
   "downloadUrl": "https://github.com/tundzhayahmedov-eng/xml-editor/releases",
   "hashes": {
     "1.0.0": "4EEF039A312465A228E930B96D6EDD39184BEA15F1D6C33B053DC5F3E093F88C"
+    "1.0.1": "A2F93E22D95885B5F4C3CFBCF3FEE5844F2FB670BEFFD227BC0197F3335B0566"
   }
 }
